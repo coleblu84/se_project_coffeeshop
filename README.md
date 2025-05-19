@@ -1,15 +1,28 @@
 # Triple Peaks Coffee Shop
 
-This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief. At the sametime showing new ways of organizing the .CSS files. Which I find very helpful.
+A responsive website for a local coffee shop, built as part of the TripleTen Software Engineering program. The site provides customers with an engaging digital experience to explore the menu, make reservations, and connect with the business.
 
-## Project features
+The Triple Peaks Coffee Shop website showcases a cozy coffee shop's menu, reservation system, and location information. Features include:
+
+- A responsive design that works seamlessly across all devices
+- An interactive reservation form for customers
+- A beautifully laid out menu section
+- Social media integration in the footer
+
+## Project Features
+
+- Responsive layout that adapts to different screen sizes (mobile, tablet, desktop)
+- Interactive reservation form with custom styling
+- Organized menu section displaying coffee drinks and pastries
+- Social media integration in the footer for community engagement
+- Custom CSS animations and hover effects
+
+## Technologies and Techniques Used
 
 - Semantic HTML5
-- Flexbox
-- Positioning
-- Flat BEM file structure
-- A custom form
-- CSS animation and transform
+- CSS3 with Flexbox layout
+- BEM methodology for scalable CSS architecture
+- Git version control
 
 ## Plan on improving the project
 
@@ -18,3 +31,9 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - best understand animation and how to use it.
 - get a better understanding of @keyframes.
 - keep working on feeling comfortable on building the HTML
+
+- Responsive layout that adapts to different screen sizes (mobile, tablet, desktop)
+- Interactive reservation form with custom styling
+- Organized menu section displaying coffee drinks and pastries
+- Social media integration in the footer for community engagement
+- Custom CSS animations and hover effects
