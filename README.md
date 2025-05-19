@@ -31,9 +31,3 @@ The Triple Peaks Coffee Shop website showcases a cozy coffee shop's menu, reserv
 - best understand animation and how to use it.
 - get a better understanding of @keyframes.
 - keep working on feeling comfortable on building the HTML
-
-- Responsive layout that adapts to different screen sizes (mobile, tablet, desktop)
-- Interactive reservation form with custom styling
-- Organized menu section displaying coffee drinks and pastries
-- Social media integration in the footer for community engagement
-- Custom CSS animations and hover effects
