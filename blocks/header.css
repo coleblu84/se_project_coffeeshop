@@ -5,6 +5,7 @@
   height: 800px;
   display: flex;
   flex-direction: column;
+  box-sizing: border-box;
 }
 
 .header__title {
@@ -21,6 +22,7 @@
   display: block;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
+  font-weight: 400;
   color: #3f96f3;
 }
 
@@ -45,7 +47,7 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  font-family: "Inter", Arial, "sans-serif";
+  font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
